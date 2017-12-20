@@ -1,14 +1,16 @@
-[
-    {
-        "id": 1,
-        "name": "Julio"
-    },
-    {
-        "id": 2,
-        "name": "Cesar"
-    },
-    {
-        "id": 3,
-        "name": "Silva"
-    }
-]
+{
+    post: [
+        {
+            "id": 1,
+            "name": "Julio"
+        },
+        {
+            "id": 2,
+            "name": "Cesar"
+        },
+        {
+            "id": 3,
+            "name": "Silva"
+        }
+    ]
+}
